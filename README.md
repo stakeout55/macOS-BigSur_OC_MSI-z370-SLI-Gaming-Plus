@@ -1,6 +1,8 @@
 # macOS-10.15.5-OpenCore-z370
  My working EFI for my MSI z370 SLI Gaming Plus rig
 
+See [releases](https://github.com/stakeout55/macOS-10.15.5-OpenCore-z370/releases) for latest release!
+
 Specs:
 * MSI z370 Gaming SLI Plus 
 * i7-8700k
